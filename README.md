@@ -2,7 +2,6 @@
 ================
 C Group project
 
--   By Julien Barbier, co-founder & CEO
 -   By: Julien Barbier, co-founder & CEO
 -   Weight: 5
 -   Project to be done in teams of 2 people (your team: Faustin Mudemi, Elizabeth Aloo)
